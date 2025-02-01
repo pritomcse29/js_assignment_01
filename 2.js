@@ -1,4 +1,4 @@
-/*function signature/sample */
+
 function sendNotification(email) {
     if(!email.includes('@')){
         return("Invalid Email");
